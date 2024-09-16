@@ -136,7 +136,7 @@ nav ul{
 }
 
 .social li a:hover i{
-	color: #851414;
+	color: 005aff;
 }
 
 
@@ -269,7 +269,7 @@ border: none;
 h3 a{
 
 	text-decoration: none;
-	color: #851414;
+	color: #005aff;
 }
 
 .chat h3 a{
@@ -277,7 +277,7 @@ h3 a{
 }
 
 .chat h3 a:hover {
-	color: #851414;
+	color: #005aff;
 }
 
 
